@@ -1,6 +1,6 @@
-;;; Lines.el -- help deal with data-files. OLDER VERSIONS SECURITY RISK
+3;;; Lines.el -- help deal with data-files. OLDER VERSIONS SECURITY RISK
 ;;General Public License. 
-;; Time-stamp: <2004-12-14 10:43:28 deego>
+;; Time-stamp: <2011-06-24 01:15:24 deego>
 ;; GPL'ed under GNU'S public license..
 ;; Copyright (C) Deepak Goel 2000
 ;; Emacs Lisp Archive entry
